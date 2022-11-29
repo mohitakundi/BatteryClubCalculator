@@ -1,6 +1,6 @@
 <script>
 	import { spring } from 'svelte/motion';
-	import data from '$lib/data/battery_neo.json';
+	import data from '$lib/data/Battery_Neo.json';
 	console.log(data);
 	let  wattage = 0;
 	$: battery_type = 'Eveready Red';
