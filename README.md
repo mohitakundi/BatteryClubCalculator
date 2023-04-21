@@ -1,3 +1,11 @@
+** A SIMPLE BATTERY LIFE CALCULATOR FOR VARIOUS AA BATTERIES PER WATTAGE CONSUMED **
+******* VISIT https://batteryclubappcalc.netlify.app/ *******
+****************** THANK YOU! ******************
+
+
+
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
