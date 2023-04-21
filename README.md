@@ -1,8 +1,8 @@
-** A SIMPLE BATTERY LIFE CALCULATOR FOR VARIOUS AA BATTERIES PER WATTAGE CONSUMED **
+### A Simple Battery Life Calculator for Various AA Batteries per Wattage Consumed
 
-******* VISIT https://batteryclubappcalc.netlify.app/ *******
+## VISIT https://batteryclubappcalc.netlify.app/
 
-****************** THANK YOU! ******************
+### THANK YOU!
 
 
 
